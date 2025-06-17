@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayem-08
 - 🌱 I’m currently learning Full-Stack Development.
-- 📫 You can reach me by e-mailing me (muntakimamisayem@gmail.com) 
+- 📫 You can reach me by e-mailing me (muntakimamisayem@gmail.com).Or DM me in my Discord--https://discord.com/users/773860454556631050
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing horror games a lot  ¯\_(ツ)_/¯
 
